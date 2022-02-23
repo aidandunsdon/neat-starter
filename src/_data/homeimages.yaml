@@ -1,25 +1,34 @@
 images:
-  - image: /static/img/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg
+  - image: /static/img/home400X400/20220201_172701.jpeg
     desc: Typewriter 6
     price: £56.99
-  - image: /static/img/photo-1449247709967-d4461a6a6103.jpg
+  - image: /static/img/home400X400/20220201_175434.jpeg
     desc: Desk chair
     price: £77.99
-  - image: /static/img/photo-1467949576168-6ce8e2df4e13.jpg
+  - image: /static/img/home400X400/20220204_133753.jpeg
     desc: Steel beaker
     price: £9.99
-  - image: /static/img/photo-1508423134147-addf71308178.jpg
+  - image: /static/img/home400X400/jade-glazed-bowl.jpg
     desc: 50 mm lens
     price: £99.99
-  - image: /static/img/photo-1544787219-7f47ccb76574.jpg
+  - image: /static/img/home400X400/20220208_155347.jpeg
     desc: White Mug
     price: £5.99
-  - image: /static/img/photo-1550837368-6594235de85c.jpg
+  - image: /static/img/home400X400/20220208_161114.jpeg
     desc: Spinning top
     price: £11.99
-  - image: /static/img/photo-1551431009-a802eeec77b1.jpg
+  - image: /static/img/home400X400/20220215_124659.jpeg
     desc: Playing Dice
     price: £3.99
-  - image: /static/img/photo-1555982105-d25af4182e4e.jpg
+  - image: /static/img/home400X400/20220215_131816.jpeg
+    desc: Coffee Cup
+    price: £6.99
+  - image: /static/img/home400X400/20220215_134645.jpeg
+    desc: Coffee Cup
+    price: £6.99
+  - image: /static/img/home400X400/20220215_135000.jpeg
+    desc: Coffee Cup
+    price: £6.99
+  - image: /static/img/home400X400/20220215_141211.jpeg
     desc: Coffee Cup
     price: £6.99
