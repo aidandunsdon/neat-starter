@@ -1,15 +1,15 @@
 images:
   - image: /static/img/home400X400/20220201_172701.jpeg
-    desc: Typewriter 6
-    price: £56.99
+    desc: Sculptures - Atavist Collection
+    price: £TBA
   - image: /static/img/home400X400/20220201_175434.jpeg
-    desc: Desk chair
-    price: £77.99
+    desc: Sculptures - Cycladic Collection
+    price: £TBA
   - image: /static/img/home400X400/20220204_133753.jpeg
-    desc: Steel beaker
-    price: £9.99
+    desc: Sculptures - Creature Collection
+    price: £TBA
   - image: /static/img/home400X400/jade-glazed-bowl.jpg
-    desc: 50 mm lens
+    desc: Bowl - Jade Glaze Collection
     price: £99.99
   - image: /static/img/home400X400/20220208_155347.jpeg
     desc: White Mug
