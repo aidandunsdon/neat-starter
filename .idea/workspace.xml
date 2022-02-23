@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a601a687-9b39-49bf-9c21-c177aecd0246" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/ceramic-sculpture-rebecca-simmons-001.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/ceramic-sculpture-rebecca-simmons-1-1.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/ceramic-sculpture-rebecca-simmons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home400X400/20220201_172701.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home400X400/20220201_175434.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home400X400/20220204_133753.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home400X400/20220204_135308.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home400X400/20220208_155347.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home400X400/20220208_161114.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home400X400/20220215_124659.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home400X400/20220215_131705.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home400X400/20220215_131816.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home400X400/20220215_134645.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home400X400/20220215_135000.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home400X400/20220215_141211.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home400X400/jade-glazed-bowl.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/_data/homeimages.yaml" afterPath="$PROJECT_DIR$/src/_data/homeimages.yaml" />
-      <change beforePath="$PROJECT_DIR$/src/_includes/partials/content.html" afterPath="$PROJECT_DIR$/src/_includes/partials/content.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,8 +27,8 @@
       <file leaf-file-name="homeimages.yaml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/_data/homeimages.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="493">
+              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -191,8 +175,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="41" />
-    <option name="y" value="447" />
+    <option name="x" value="121" />
+    <option name="y" value="213" />
     <option name="width" value="1825" />
     <option name="height" value="1100" />
   </component>
@@ -272,6 +256,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="home400X400" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
@@ -358,7 +350,7 @@
       <workItem from="1634232891586" duration="438000" />
       <workItem from="1643124450809" duration="44000" />
       <workItem from="1645533904766" duration="10211000" />
-      <workItem from="1645615046571" duration="5264000" />
+      <workItem from="1645615046571" duration="5534000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1621592965527</created>
@@ -521,15 +513,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645538915493</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="commit 8">
+      <created>1645627740988</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1645627740988</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105525000" />
+    <option name="totallyTimeSpent" value="105795000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="447" width="1825" height="1100" extended-state="0" />
-    <editor active="true" />
+    <frame x="121" y="213" width="1825" height="1100" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -538,7 +536,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53620785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53620785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -938,8 +936,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_data/homeimages.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="493">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding />
         </state>
       </provider>
