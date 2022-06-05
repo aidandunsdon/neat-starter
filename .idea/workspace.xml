@@ -70,8 +70,8 @@
       <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/_includes/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="731">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -360,7 +360,7 @@
       <workItem from="1643124450809" duration="44000" />
       <workItem from="1645533904766" duration="10211000" />
       <workItem from="1645615046571" duration="16741000" />
-      <workItem from="1654454456748" duration="694000" />
+      <workItem from="1654454456748" duration="814000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1621592965527</created>
@@ -558,11 +558,18 @@
       <option name="project" value="LOCAL" />
       <updated>1654454997480</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="commit 9">
+      <created>1654455270852</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1654455270852</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117696000" />
+    <option name="totallyTimeSpent" value="117816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -984,8 +991,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_includes/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="731">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>
