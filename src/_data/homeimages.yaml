@@ -17,13 +17,7 @@ images:
   - image: /static/img/home400X400/P3080132.jpeg
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P5100150.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
   - image: /static/img/home400X400/P5100154.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100155.jpeg
     desc: Sculptures - Atavist Collection
     price: £Sold Out
   - image: /static/img/home400X400/P5100156.jpeg
@@ -156,9 +150,6 @@ images:
     desc: Sculptures - Atavist Collection
     price: £Sold Out
   - image: /static/img/home400X400/P5100266.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100267.jpeg
     desc: Sculptures - Atavist Collection
     price: £Sold Out
   - image: /static/img/home400X400/P5100268.jpeg
