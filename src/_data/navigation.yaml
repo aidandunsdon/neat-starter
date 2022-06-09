@@ -3,3 +3,7 @@ items:
     url: /
   - text: Blog
     url: /blog
+  - text: Details
+    url: /details
+  - text: About
+    url: /about
