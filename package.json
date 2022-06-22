@@ -26,6 +26,7 @@
     "tailwindcss": "^2.2.19"
   },
   "dependencies": {
-    "netlify-cli": "^6.15.0"
+    "netlify-cli": "^6.15.0",
+    "tw-elements": "^1.0.0-alpha12"
   }
 }

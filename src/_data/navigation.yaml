@@ -1,9 +1,42 @@
 items:
   - text: Home
     url: /
-  - text: Blog
-    url: /blog
-  - text: Details
+    subitems:
+  - text: Gallery
+    url: /allitems
+    subitems:
+      - All Items
+      - Sculptures
+      - All Tableware
+      - Cups
+      - Plates
+      - Bowls
+    subitemurls:
+      - /allitems
+      - /sculptures
+      - /tableware
+      - /cups
+      - /plates
+      - /bowls
+  - text: Shop
     url: /details
+    subitems:
+      - All Items
+      - Sculptures
+      - All Tableware
+      - Cups
+      - Plates
+      - Bowls
+    subitemurls:
+      - /allitems
+      - /sculptures
+      - /tableware
+      - /cups
+      - /plates
+      - /bowls
   - text: About
     url: /about
+    subitems:
+  - text: Blog
+    url: /blog
+    subitems:
