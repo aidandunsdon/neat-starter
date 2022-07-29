@@ -2,88 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a601a687-9b39-49bf-9c21-c177aecd0246" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_data/homeimages2.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_data/wshopimages.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_includes/partials/homeimages.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_includes/partials/shop.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_includes/partials/wshopimages.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015476.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015477.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015479.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015481.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015482.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015488.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015490.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015496 (2).jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015528.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015533.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015534.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015537.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015538.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015540.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015544.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015548 (2).jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015551.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015555.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015559.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015563.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015569 (2).jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015570.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015586.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015589.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015591.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015600.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015613.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015614.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015620.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015623.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015646.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015652.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015653.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015655.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015665.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015666.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015669.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015671.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015675.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015680.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015686 (2).jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015687.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3080083.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3080100 (2).jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3080101.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3080103.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3080104.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3080132 (2).jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3080134 (2).jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 1 (1).jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 10.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 11.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 12.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 13.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 14.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 15.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 16.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 17j.pg.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 18.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 2.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 23jpg.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 4.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 5.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 6.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 7.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 8.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 8jpg.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 9.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/workshops/index.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/_data/navigation.yaml" afterPath="$PROJECT_DIR$/src/_data/navigation.yaml" />
-      <change beforePath="$PROJECT_DIR$/src/_includes/partials/about.html" afterPath="$PROJECT_DIR$/src/_includes/partials/about.html" />
-      <change beforePath="$PROJECT_DIR$/src/_includes/partials/gallery01.html" afterPath="$PROJECT_DIR$/src/_includes/partials/gallery01.html" />
-      <change beforePath="$PROJECT_DIR$/src/_includes/partials/hero.html" afterPath="$PROJECT_DIR$/src/_includes/partials/hero.html" />
-      <change beforePath="$PROJECT_DIR$/src/allitems/index.html" afterPath="$PROJECT_DIR$/src/allitems/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/pots/index.html" afterPath="$PROJECT_DIR$/src/gallery/index.html" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/content.html" afterPath="$PROJECT_DIR$/src/_includes/partials/content.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -107,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/about/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="0" />
+              <caret line="6" column="0" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -167,14 +87,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navigation.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_data/navigation.yaml">
+      <file leaf-file-name="content.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_includes/partials/content.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            <state relative-caret-position="612">
+              <caret line="36" column="123" lean-forward="false" selection-start-line="36" selection-start-column="123" selection-end-line="36" selection-end-column="123" />
               <folding>
-                <element signature="e#355#465#0" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -184,16 +117,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shop.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_includes/partials/shop.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -288,7 +211,6 @@
         <option value="$PROJECT_DIR$/src/_includes/default.html" />
         <option value="$PROJECT_DIR$/src/about/index.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/navbar.html" />
-        <option value="$PROJECT_DIR$/src/_includes/partials/content.html" />
         <option value="$PROJECT_DIR$/src/static/img/home500X500/temp.txt" />
         <option value="$PROJECT_DIR$/src/_data/homeimages.yaml" />
         <option value="$PROJECT_DIR$/src/index.html" />
@@ -305,6 +227,7 @@
         <option value="$PROJECT_DIR$/src/_includes/partials/homeimages.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/about.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/hero.html" />
+        <option value="$PROJECT_DIR$/src/_includes/partials/content.html" />
       </list>
     </option>
   </component>
@@ -320,10 +243,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="447" />
-    <option name="y" value="672" />
-    <option name="width" value="1793" />
-    <option name="height" value="1047" />
+    <option name="x" value="-7" />
+    <option name="width" value="1934" />
+    <option name="height" value="1034" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -353,6 +275,19 @@
               <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
@@ -449,14 +384,7 @@
       <workItem from="1656411793238" duration="594000" />
       <workItem from="1657027840908" duration="393000" />
       <workItem from="1658152469882" duration="595000" />
-      <workItem from="1659004515328" duration="15146000" />
-    </task>
-    <task id="LOCAL-00014" summary="commit 5">
-      <created>1621942244654</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1621942244654</updated>
+      <workItem from="1659004515328" duration="17232000" />
     </task>
     <task id="LOCAL-00015" summary="commit 5">
       <created>1622239301817</created>
@@ -794,14 +722,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656001216500</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="commit 27">
+      <created>1659125276582</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1659125276582</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="285210000" />
+    <option name="totallyTimeSpent" value="287296000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="447" y="672" width="1793" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="1934" height="1034" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -811,7 +746,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20427687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18925965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -904,9 +839,9 @@
     <MESSAGE value="commit 23" />
     <MESSAGE value="commit 24" />
     <MESSAGE value="commit 25" />
-    <MESSAGE value="commit 27" />
     <MESSAGE value="commit 26" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 26" />
+    <MESSAGE value="commit 27" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1100,30 +1035,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_includes/partials/content.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/temp.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="785">
           <caret line="68" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -1176,30 +1091,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gallery/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_includes/partials/gallery01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="87" lean-forward="false" selection-start-line="14" selection-start-column="87" selection-end-line="14" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/allitems/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_data/navigation.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -1218,18 +1109,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_includes/partials/homeimages.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_includes/partials/hero.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="125" lean-forward="false" selection-start-line="7" selection-start-column="125" selection-end-line="7" selection-end-column="125" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_includes/partials/homeimages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -1242,11 +1141,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/about/index.html">
+    <entry file="file://$PROJECT_DIR$/src/allitems/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gallery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_includes/partials/gallery01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="87" lean-forward="false" selection-start-line="14" selection-start-column="87" selection-end-line="14" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_includes/partials/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="123" lean-forward="false" selection-start-line="36" selection-start-column="123" selection-end-line="36" selection-end-column="123" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
