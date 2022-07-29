@@ -3,7 +3,7 @@ items:
     url: /
     subitems:
   - text: Gallery
-    url: /allitems
+    url: /gallery
     subitems:
       - All Items
       - Sculptures
@@ -19,7 +19,7 @@ items:
       - /plates
       - /bowls
   - text: Shop
-    url: /details
+    url: /allitems
     subitems:
       - All Items
       - Sculptures
@@ -28,12 +28,15 @@ items:
       - Plates
       - Bowls
     subitemurls:
-      - /allitems
+      - /details
       - /sculptures
       - /tableware
       - /cups
       - /plates
       - /bowls
+  - text: Workshops
+    url: /workshops
+    subitems:
   - text: About
     url: /about
     subitems:
