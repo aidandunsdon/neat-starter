@@ -1,7 +1,10 @@
 module.exports = {
     content: ['./src/**/*.{html,js}'],
     theme: {
-        extend: {}
+        extend: {
+            spacing: {
+                '128': '100rem'
+            }
     },
   plugins: [
       require("@tailwindcss/typography"),

@@ -5,32 +5,28 @@ items:
   - text: Gallery
     url: /gallery
     subitems:
-      - All Items
       - Sculptures
-      - All Tableware
+      - Pottery
       - Cups
       - Plates
       - Bowls
     subitemurls:
-      - /allitems
       - /sculptures
-      - /tableware
+      - /pottery
       - /cups
       - /plates
       - /bowls
   - text: Shop
     url: /allitems
     subitems:
-      - All Items
       - Sculptures
-      - All Tableware
+      - Pottery
       - Cups
       - Plates
       - Bowls
     subitemurls:
-      - /details
       - /sculptures
-      - /tableware
+      - /pottery
       - /cups
       - /plates
       - /bowls
