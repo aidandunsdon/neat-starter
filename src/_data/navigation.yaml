@@ -39,6 +39,4 @@ items:
   - text: Contact
     url: /contact
     subitems:
-  - text: Subscribe
-    url: /subscribe
-    subitems:
+  
