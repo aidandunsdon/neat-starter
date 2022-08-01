@@ -6,27 +6,23 @@ items:
     url: /gallery
     subitems:
       - Sculptures
-      - Pottery
       - Cups
       - Plates
       - Bowls
     subitemurls:
       - /sculptures
-      - /pottery
       - /cups
       - /plates
       - /bowls
   - text: Shop
-    url: /allitems
+    url: /shop
     subitems:
       - Sculptures
-      - Pottery
       - Cups
       - Plates
       - Bowls
     subitemurls:
       - /sculptures
-      - /pottery
       - /cups
       - /plates
       - /bowls
@@ -39,4 +35,3 @@ items:
   - text: Contact
     url: /contact
     subitems:
-  

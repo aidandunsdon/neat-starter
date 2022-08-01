@@ -1,159 +1,47 @@
 images:
-  - image: /static/img/home400X400/P3080095.jpeg
+  - image: /static/img/home500X500/P3015686 (4).JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P3080096.jpeg
+  - image: /static/img/home500X500/P3080096 (3).JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P3080100.jpeg
+  - image: /static/img/home500X500/P5100155 (2).JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P3080110.jpeg
+  - image: /static/img/home500X500/P5100168 (2).JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P3080122.jpeg
+  - image: /static/img/home500X500/P3080093 (2).JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P3080132.jpeg
+  - image: /static/img/home500X500/P5100198 (3).JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P5100154.jpeg
+  - image: /static/img/home500X500/P5100199.JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P5100156.jpeg
+  - image: /static/img/home500X500/P5100223 (3).JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P5100158.jpeg
+  - image: /static/img/home500X500/P5100227 (3).JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P5100161.jpeg
+  - image: /static/img/home500X500/P5100231 (3).JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P5100166.jpeg
+  - image: /static/img/home500X500/P5130315 (3).JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P5100168.jpeg
+  - image: /static/img/home500X500/P5130323 (3).JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P5100171.jpeg
+  - image: /static/img/home500X500/P6100551 (2).JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P5100174.jpeg
+  - image: /static/img/home500X500/P5100205 (4).JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P5100175.jpeg
+  - image: /static/img/home500X500/P5100217 (4).JPG
     desc: Sculptures - Atavist Collection
     price: £Sold Out
-  - image: /static/img/home400X400/P5100178.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100180.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100181.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100183.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100186.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100188.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100192.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100194.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100196.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100198.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100199.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100205.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100207.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100209.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100211.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100212.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100213.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100217.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100220.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100223.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100224.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100225.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100227.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100227.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100228.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100231.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100234.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100238.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100245.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100247.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100249.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100252.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100256.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100257.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100265.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100266.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-  - image: /static/img/home400X400/P5100268.jpeg
-    desc: Sculptures - Atavist Collection
-    price: £Sold Out
-
 

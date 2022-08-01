@@ -2,10 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a601a687-9b39-49bf-9c21-c177aecd0246" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/_data/galleryimages.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/_data/shopimages.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/_includes/partials/gallery.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/_data/homeimages.yaml" afterPath="$PROJECT_DIR$/src/_data/homeimages.yaml" />
+      <change beforePath="$PROJECT_DIR$/src/_data/homeimages2.yaml" afterPath="$PROJECT_DIR$/src/_data/homeimages2.yaml" />
       <change beforePath="$PROJECT_DIR$/src/_data/navigation.yaml" afterPath="$PROJECT_DIR$/src/_data/navigation.yaml" />
-      <change beforePath="$PROJECT_DIR$/src/_includes/partials/contact.html" afterPath="$PROJECT_DIR$/src/_includes/partials/contact.html" />
-      <change beforePath="$PROJECT_DIR$/src/_includes/partials/subscribe.html" afterPath="$PROJECT_DIR$/src/_includes/partials/subscribe.html" />
+      <change beforePath="$PROJECT_DIR$/src/_data/sculptureimages.yaml" afterPath="$PROJECT_DIR$/src/_data/sculptureimages.yaml" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/hero.html" afterPath="$PROJECT_DIR$/src/_includes/partials/hero.html" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/homeimages.html" afterPath="$PROJECT_DIR$/src/_includes/partials/homeimages.html" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/shop.html" afterPath="$PROJECT_DIR$/src/_includes/partials/shop.html" />
+      <change beforePath="$PROJECT_DIR$/src/allitems/index.html" afterPath="$PROJECT_DIR$/src/shop/index.html" />
+      <change beforePath="$PROJECT_DIR$/src/gallery/index.html" afterPath="$PROJECT_DIR$/src/gallery/index.html" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015476.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015477.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015479.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015481.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015482.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015488.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015490.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015496 (2).jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015528.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015533.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015534.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015537.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015538.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015540.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015544.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015548 (2).jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015551.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015555.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015559.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015563.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015569 (2).jpeg" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015569 (2).jpeg" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015570.jpeg" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015570.jpeg" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015586.jpeg" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015586.jpeg" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015589.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015591.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015600.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015613.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015614.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015620.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015623.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015646.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015652.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015653.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015655.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015665.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015666.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015669.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015671.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015675.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015680.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015686 (2).jpeg" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015686 (2).jpeg" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015687.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080083.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080100 (2).jpeg" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3080100 (2).jpeg" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080101.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080103.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080104.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080132 (2).jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080134 (2).jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 1 (1).jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 10.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 11.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 12.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 13.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 14.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 15.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 16.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 17j.pg.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 18.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 2.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 23jpg.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 4.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 5.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 6.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 7.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 8.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 8jpg.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 9.jpeg" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,82 +96,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cups/index.html">
+      <file leaf-file-name="homeimages2.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_data/homeimages2.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bowls/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wshopimages.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_includes/partials/wshopimages.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="78" lean-forward="false" selection-start-line="2" selection-start-column="78" selection-end-line="2" selection-end-column="78" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/contact/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_includes/partials/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding>
-                <element signature="n#a#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                <element signature="n#a#1;n#div#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="subscribe.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_includes/partials/subscribe.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#6;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#7;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/subscribe/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="425">
+              <caret line="25" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -103,28 +109,88 @@
       <file leaf-file-name="navigation.yaml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/_data/navigation.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="2" lean-forward="false" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+            <state relative-caret-position="425">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tailwind.config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tailwind.config.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shop/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            <state relative-caret-position="102">
+              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="netlify.toml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netlify.toml">
+      <file leaf-file-name="bowlsimages.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_data/bowlsimages.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="galleryimages.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_data/galleryimages.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homeimages.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_includes/partials/homeimages.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_includes/partials/shop.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homeimages.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_data/homeimages.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cupsimages.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_data/cupsimages.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1088">
+              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sculptureimages.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_data/sculptureimages.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -141,7 +207,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.yaml</find>
       <find>Dropdown</find>
       <find>block</find>
       <find>inline-block</find>
@@ -171,6 +236,7 @@
       <find>z-</find>
       <find>relative</find>
       <find>tailwind</find>
+      <find>files</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -188,9 +254,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_includes/details.html" />
-        <option value="$PROJECT_DIR$/src/_includes/partials/test.html" />
-        <option value="$PROJECT_DIR$/src/_includes/partials/details.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/footer.html" />
         <option value="$PROJECT_DIR$/src/details/index.html" />
         <option value="$USER_HOME$/AppData/Local/Temp/Temp1_tailwind-css-dropdown-navigation-bar.zip/component.html" />
@@ -201,27 +264,20 @@
         <option value="$PROJECT_DIR$/src/test/test.html" />
         <option value="$PROJECT_DIR$/src/test.html" />
         <option value="$PROJECT_DIR$/src/static/img/home500X500/temp.txt" />
-        <option value="$PROJECT_DIR$/src/_data/homeimages.yaml" />
         <option value="$PROJECT_DIR$/src/_includes/partials/workshops.yaml" />
-        <option value="$PROJECT_DIR$/src/_data/homeimages2.yaml" />
         <option value="$PROJECT_DIR$/src/_data/workshopsimages.yaml" />
         <option value="$PROJECT_DIR$/src/allitems/index.html" />
-        <option value="$PROJECT_DIR$/src/_includes/partials/homeimages.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/about.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/content.html" />
         <option value="$PROJECT_DIR$/src/_data/wshopimages.yaml" />
         <option value="$PROJECT_DIR$/src/workshops/index.html" />
         <option value="$PROJECT_DIR$/src/about/index.html" />
-        <option value="$PROJECT_DIR$/src/_includes/partials/hero.html" />
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/sculptures.html" />
         <option value="$PROJECT_DIR$/src/sculptures/index.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/navbar.html" />
         <option value="$PROJECT_DIR$/src/_includes/default.html" />
-        <option value="$PROJECT_DIR$/src/_includes/partials/gallery01.html" />
-        <option value="$PROJECT_DIR$/src/_includes/partials/shop.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/sculptureimages.html" />
-        <option value="$PROJECT_DIR$/src/_data/sculptureimages.yaml" />
         <option value="$PROJECT_DIR$/src/_data/pottery.yaml" />
         <option value="$PROJECT_DIR$/src/_includes/partials/pottery.html" />
         <option value="$PROJECT_DIR$/src/pottery/index.html" />
@@ -238,6 +294,16 @@
         <option value="$PROJECT_DIR$/src/subscribe/index.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/subscribe.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/contact.html" />
+        <option value="$PROJECT_DIR$/src/_includes/partials/hero.html" />
+        <option value="$PROJECT_DIR$/src/_includes/partials/gallery01.html" />
+        <option value="$PROJECT_DIR$/src/_includes/partials/gallery.html" />
+        <option value="$PROJECT_DIR$/src/gallery/index.html" />
+        <option value="$PROJECT_DIR$/src/_data/homeimages2.yaml" />
+        <option value="$PROJECT_DIR$/src/_includes/partials/homeimages.html" />
+        <option value="$PROJECT_DIR$/src/_data/homeimages.yaml" />
+        <option value="$PROJECT_DIR$/src/_includes/partials/shop.html" />
+        <option value="$PROJECT_DIR$/src/_data/galleryimages.yaml" />
+        <option value="$PROJECT_DIR$/src/_data/sculptureimages.yaml" />
         <option value="$PROJECT_DIR$/src/_data/navigation.yaml" />
       </list>
     </option>
@@ -253,9 +319,9 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-71" />
-    <option name="y" value="61" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="236" />
+    <option name="y" value="243" />
     <option name="width" value="1934" />
     <option name="height" value="1034" />
   </component>
@@ -292,26 +358,34 @@
               <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="contact" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="subscribe" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="home500X500" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -335,18 +409,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\subscribe" />
+      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\_data" />
       <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\_includes\partials" />
+      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\subscribe" />
       <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\contact" />
       <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\bowls" />
-      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\_data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src" />
+      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\_includes\shop" />
       <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\_data" />
       <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\static\img\carousel" />
       <recent name="C:\Users\user\Documents\GitHub\neat-starter\_site\static\img\slider" />
-      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\_includes\partials" />
-      <recent name="C:\Users\user\Documents\GitHub\neat-starter\_site\static\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -404,14 +478,7 @@
       <workItem from="1658152469882" duration="595000" />
       <workItem from="1659004515328" duration="20211000" />
       <workItem from="1659174027448" duration="12420000" />
-      <workItem from="1659353628074" duration="7358000" />
-    </task>
-    <task id="LOCAL-00023" summary="commit 8">
-      <created>1645538915493</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1645538915493</updated>
+      <workItem from="1659353628074" duration="18960000" />
     </task>
     <task id="LOCAL-00024" summary="commit 8">
       <created>1645627740988</created>
@@ -749,14 +816,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659360576107</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="commit 36">
+      <created>1659361266611</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1659361266611</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="310053000" />
+    <option name="totallyTimeSpent" value="321655000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1576" extended-state="6" />
+    <frame x="236" y="243" width="1934" height="1034" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -766,7 +840,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1890625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2523462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20567867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -836,7 +910,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit 13" />
     <MESSAGE value="commit 13b" />
     <MESSAGE value="commit 13c" />
     <MESSAGE value="commit 13d" />
@@ -861,73 +934,14 @@
     <MESSAGE value="commit 33" />
     <MESSAGE value="commit 34" />
     <MESSAGE value="commit 35" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 35" />
+    <MESSAGE value="commit 36" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 36" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_data/wshopimages.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workshops/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_includes/partials/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/about/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_includes/partials/hero.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_includes/partials/homeimages.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sculptures/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -964,13 +978,6 @@
         <state relative-caret-position="5644">
           <caret line="446" column="19" lean-forward="false" selection-start-line="446" selection-start-column="19" selection-end-line="446" selection-end-column="19" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1040,35 +1047,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/allitems/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_includes/partials/shop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="80" lean-forward="false" selection-start-line="2" selection-start-column="80" selection-end-line="2" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_data/sculptureimages.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gallery/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_includes/partials/sculptureimages.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1091,36 +1069,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_includes/partials/gallery01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="73" lean-forward="false" selection-start-line="2" selection-start-column="73" selection-end-line="2" selection-end-column="73" />
-          <folding>
-            <element signature="n#nav#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_includes/partials/pottery.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_data/homeimages2.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_data/cupsimages.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1225,9 +1177,9 @@
           <folding>
             <element signature="n#div#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#6;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#7;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#6;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#7;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1256,10 +1208,148 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_includes/partials/gallery01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#section#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_includes/partials/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gallery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_includes/partials/hero.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="133" lean-forward="false" selection-start-line="3" selection-start-column="133" selection-end-line="3" selection-end-column="133" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_includes/partials/homeimages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_data/homeimages2.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_includes/partials/shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/files.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="92" column="40" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="96" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shop/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_data/bowlsimages.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_data/homeimages.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_data/galleryimages.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_data/cupsimages.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_data/sculptureimages.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_data/navigation.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="2" lean-forward="false" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
