@@ -2,87 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a601a687-9b39-49bf-9c21-c177aecd0246" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_data/galleryimages.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_data/shopimages.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_includes/partials/gallery.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/_data/homeimages.yaml" afterPath="$PROJECT_DIR$/src/_data/homeimages.yaml" />
-      <change beforePath="$PROJECT_DIR$/src/_data/homeimages2.yaml" afterPath="$PROJECT_DIR$/src/_data/homeimages2.yaml" />
-      <change beforePath="$PROJECT_DIR$/src/_data/navigation.yaml" afterPath="$PROJECT_DIR$/src/_data/navigation.yaml" />
-      <change beforePath="$PROJECT_DIR$/src/_data/sculptureimages.yaml" afterPath="$PROJECT_DIR$/src/_data/sculptureimages.yaml" />
-      <change beforePath="$PROJECT_DIR$/src/_includes/partials/hero.html" afterPath="$PROJECT_DIR$/src/_includes/partials/hero.html" />
-      <change beforePath="$PROJECT_DIR$/src/_includes/partials/homeimages.html" afterPath="$PROJECT_DIR$/src/_includes/partials/homeimages.html" />
-      <change beforePath="$PROJECT_DIR$/src/_includes/partials/shop.html" afterPath="$PROJECT_DIR$/src/_includes/partials/shop.html" />
-      <change beforePath="$PROJECT_DIR$/src/allitems/index.html" afterPath="$PROJECT_DIR$/src/shop/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/gallery/index.html" afterPath="$PROJECT_DIR$/src/gallery/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015476.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015477.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015479.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015481.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015482.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015488.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015490.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015496 (2).jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015528.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015533.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015534.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015537.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015538.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015540.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015544.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015548 (2).jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015551.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015555.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015559.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015563.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015569 (2).jpeg" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015569 (2).jpeg" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015570.jpeg" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015570.jpeg" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015586.jpeg" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015586.jpeg" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015589.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015591.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015600.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015613.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015614.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015620.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015623.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015646.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015652.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015653.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015655.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015665.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015666.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015669.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015671.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015675.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015680.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015686 (2).jpeg" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015686 (2).jpeg" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015687.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080083.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080100 (2).jpeg" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3080100 (2).jpeg" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080101.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080103.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080104.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080132 (2).jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080134 (2).jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 1 (1).jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 10.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 11.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 12.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 13.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 14.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 15.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 16.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 17j.pg.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 18.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 2.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 23jpg.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 4.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 5.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 6.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 7.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 8.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 8jpg.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/rebecca 9.jpeg" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -478,14 +398,7 @@
       <workItem from="1658152469882" duration="595000" />
       <workItem from="1659004515328" duration="20211000" />
       <workItem from="1659174027448" duration="12420000" />
-      <workItem from="1659353628074" duration="18960000" />
-    </task>
-    <task id="LOCAL-00024" summary="commit 8">
-      <created>1645627740988</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1645627740988</updated>
+      <workItem from="1659353628074" duration="18981000" />
     </task>
     <task id="LOCAL-00025" summary="commit 8">
       <created>1645628004604</created>
@@ -823,11 +736,18 @@
       <option name="project" value="LOCAL" />
       <updated>1659361266611</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="commit 37">
+      <created>1659382296038</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1659382296040</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="321655000" />
+    <option name="totallyTimeSpent" value="321676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="236" y="243" width="1934" height="1034" extended-state="0" />
@@ -910,7 +830,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit 13b" />
     <MESSAGE value="commit 13c" />
     <MESSAGE value="commit 13d" />
     <MESSAGE value="commit 14" />
@@ -935,7 +854,8 @@
     <MESSAGE value="commit 34" />
     <MESSAGE value="commit 35" />
     <MESSAGE value="commit 36" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 36" />
+    <MESSAGE value="commit 37" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 37" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
