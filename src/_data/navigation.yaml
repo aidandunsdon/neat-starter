@@ -36,6 +36,6 @@ items:
   - text: About
     url: /about
     subitems:
-  - text: Blog
-    url: /blog
+  - text: Contact
+    url: /contact
     subitems:
