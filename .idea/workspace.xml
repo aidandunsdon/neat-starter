@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a601a687-9b39-49bf-9c21-c177aecd0246" name="Default" comment="commit 38">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P3015686.jpeg" />
+    <list default="true" id="a601a687-9b39-49bf-9c21-c177aecd0246" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/workshops/workshop4.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/_data/galleryimages.yaml" afterPath="$PROJECT_DIR$/src/_data/galleryimages.yaml" />
-      <change beforePath="$PROJECT_DIR$/src/_data/homeimages.yaml" afterPath="$PROJECT_DIR$/src/_data/homeimages.yaml" />
-      <change beforePath="$PROJECT_DIR$/src/_data/sculptureimages.yaml" afterPath="$PROJECT_DIR$/src/_data/sculptureimages.yaml" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080096 (4).jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100205 (4).jpeg" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P5100205 (4).jpeg" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100217 (5).jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100223 (4).jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100231 (4).jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5130315 (3).jpeg" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P5130315 (3).jpeg" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5130323 (3).jpeg" afterPath="$PROJECT_DIR$/src/static/img/home500X500/P5130323 (3).jpeg" />
+      <change beforePath="$PROJECT_DIR$/src/_data/wshopimages.yaml" afterPath="$PROJECT_DIR$/src/_data/wshopimages.yaml" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/wshopimages.html" afterPath="$PROJECT_DIR$/src/_includes/partials/wshopimages.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,52 +19,95 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P5100217 (4).jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100217 (4).jpeg">
+      <file leaf-file-name="workshop1.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop1.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P5100223 (3).jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100223 (3).jpeg">
+      <file leaf-file-name="workshop4.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop4.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="galleryimages.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_data/galleryimages.yaml">
+      <file leaf-file-name="wshopimages.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_includes/partials/wshopimages.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2442">
-              <caret line="189" column="20" lean-forward="false" selection-start-line="189" selection-start-column="20" selection-end-line="189" selection-end-column="20" />
+            <state relative-caret-position="765">
+              <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="homeimages.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_data/homeimages.yaml">
+      <file leaf-file-name="workshop2.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop2.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wshopimages.yaml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_data/wshopimages.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="52" lean-forward="false" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="52" />
+            <state relative-caret-position="204">
+              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sculptureimages.yaml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_data/sculptureimages.yaml">
+      <file leaf-file-name="quicklinks.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_data/quicklinks.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="netlify.toml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netlify.toml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P3015686 (4).jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3015686 (4).jpeg">
+      <file leaf-file-name="state.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/.netlify/state.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/admin/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#457#485#0" expanded="false" />
+                <element signature="e#490#988#0" expanded="false" />
+                <element signature="e#1036#1064#0" expanded="false" />
+                <element signature="e#1069#2302#0" expanded="false" />
+                <element signature="e#2379#2812#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workshop3.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop3.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -152,7 +187,6 @@
         <option value="$PROJECT_DIR$/src/allitems/index.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/about.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/content.html" />
-        <option value="$PROJECT_DIR$/src/_data/wshopimages.yaml" />
         <option value="$PROJECT_DIR$/src/workshops/index.html" />
         <option value="$PROJECT_DIR$/src/about/index.html" />
         <option value="$PROJECT_DIR$/src/index.html" />
@@ -170,7 +204,6 @@
         <option value="$PROJECT_DIR$/src/_includes/partials/bowls.html" />
         <option value="$PROJECT_DIR$/src/cups/index.html" />
         <option value="$PROJECT_DIR$/src/bowls/index.html" />
-        <option value="$PROJECT_DIR$/src/_includes/partials/wshopimages.html" />
         <option value="$PROJECT_DIR$/src/contact/index.html" />
         <option value="$PROJECT_DIR$/tailwind.config.js" />
         <option value="$PROJECT_DIR$/src/blog/backup.txt" />
@@ -188,6 +221,8 @@
         <option value="$PROJECT_DIR$/src/_data/galleryimages.yaml" />
         <option value="$PROJECT_DIR$/src/_data/homeimages.yaml" />
         <option value="$PROJECT_DIR$/src/_data/sculptureimages.yaml" />
+        <option value="$PROJECT_DIR$/src/_includes/partials/wshopimages.html" />
+        <option value="$PROJECT_DIR$/src/_data/wshopimages.yaml" />
       </list>
     </option>
   </component>
@@ -202,9 +237,9 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="621" />
-    <option name="y" value="276" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="105" />
+    <option name="y" value="49" />
     <option name="width" value="1934" />
     <option name="height" value="1012" />
   </component>
@@ -234,33 +269,6 @@
               <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="home500X500" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -356,14 +364,11 @@
       <workItem from="1659004515328" duration="20211000" />
       <workItem from="1659174027448" duration="12420000" />
       <workItem from="1659353628074" duration="21758000" />
-      <workItem from="1659385918489" duration="4772000" />
-    </task>
-    <task id="LOCAL-00029" summary="commit 9">
-      <created>1654455270852</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1654455270852</updated>
+      <workItem from="1659385918489" duration="8657000" />
+      <workItem from="1660671885221" duration="595000" />
+      <workItem from="1660723876888" duration="594000" />
+      <workItem from="1662371118785" duration="2238000" />
+      <workItem from="1662458308104" duration="3725000" />
     </task>
     <task id="LOCAL-00030" summary="commit 9">
       <created>1654455285269</created>
@@ -701,18 +706,25 @@
       <option name="project" value="LOCAL" />
       <updated>1659382900086</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="commit 39">
+      <created>1659390900471</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1659390900471</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="329225000" />
+    <option name="totallyTimeSpent" value="340262000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="621" y="276" width="1934" height="1012" extended-state="0" />
+    <frame x="-8" y="-8" width="2576" height="1576" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2523462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1890625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -748,7 +760,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1890625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20567867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7472284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -788,7 +800,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit 13d" />
     <MESSAGE value="commit 14" />
     <MESSAGE value="commit 15" />
     <MESSAGE value="commit 17" />
@@ -813,73 +824,14 @@
     <MESSAGE value="commit 36" />
     <MESSAGE value="commit 37" />
     <MESSAGE value="commit 38" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 38" />
+    <MESSAGE value="commit 39" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 39" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P3080096 (3).jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P5100155 (2).jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P5100168 (2).jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P5100198 (3).jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P5100205 (4).jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P5100212 (3).jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P5100217 (4).jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P5100223 (3).jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P5100227 (3).jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P5100231 (3).jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P5130315 (3).jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P5130323 (3).jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P6100551 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1062,7 +1014,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_data/galleryimages.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2442">
+        <state relative-caret-position="3213">
           <caret line="189" column="20" lean-forward="false" selection-start-line="189" selection-start-column="20" selection-end-line="189" selection-end-column="20" />
           <folding />
         </state>
@@ -1070,7 +1022,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_data/homeimages.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
+        <state relative-caret-position="0">
           <caret line="43" column="52" lean-forward="false" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="52" />
           <folding />
         </state>
@@ -1080,6 +1032,93 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/ceramic-sculpture-rebecca-simmons-001.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/workshops/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netlify.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.netlify/state.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admin/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#457#485#0" expanded="false" />
+            <element signature="e#490#988#0" expanded="false" />
+            <element signature="e#1036#1064#0" expanded="false" />
+            <element signature="e#1069#2302#0" expanded="false" />
+            <element signature="e#2379#2812#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_data/quicklinks.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_includes/partials/wshopimages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_data/wshopimages.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding />
         </state>
       </provider>

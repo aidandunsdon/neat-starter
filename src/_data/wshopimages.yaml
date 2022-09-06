@@ -1,10 +1,13 @@
 images:
   - image: /static/img/workshops/workshop1.jpg
     desc: Sculptures - Atavist Collection
-    price: £Sold Out
+    url: "https://form.jotform.com/222127545869060/"
   - image: /static/img/workshops/workshop2.jpg
     desc: Sculptures - Atavist Collection
-    price: £Sold Out
+    url: "https://form.jotform.com/222137194612350/"
   - image: /static/img/workshops/workshop3.jpg
     desc: Sculptures - Atavist Collection
-    price: £Sold Out
+    url: "https://form.jotform.com/222136520107341/"
+  - image: /static/img/workshops/workshop4.jpg
+    desc: Sculptures - Atavist Collection
+    url: "https://form.jotform.com/222143596921356"
