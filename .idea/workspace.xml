@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a601a687-9b39-49bf-9c21-c177aecd0246" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/static/img/workshops/workshop4.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/_data/wshopimages.yaml" afterPath="$PROJECT_DIR$/src/_data/wshopimages.yaml" />
-      <change beforePath="$PROJECT_DIR$/src/_includes/partials/wshopimages.html" afterPath="$PROJECT_DIR$/src/_includes/partials/wshopimages.html" />
+      <change beforePath="$PROJECT_DIR$/src/_data/platesimages.yaml" afterPath="$PROJECT_DIR$/src/_data/platesimages.yaml" />
+      <change beforePath="$PROJECT_DIR$/src/plates/index.html" afterPath="$PROJECT_DIR$/src/plates/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,97 +18,79 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="workshop1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop1.jpg">
+      <file leaf-file-name="P5130311 (3).jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130311 (3).jpeg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workshop4.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop4.jpg">
+      <file leaf-file-name="P5130314 (3).jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130314 (3).jpeg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wshopimages.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_includes/partials/wshopimages.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workshop2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop2.jpg">
+      <file leaf-file-name="P5130315 (3).jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130315 (3).jpeg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wshopimages.yaml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_data/wshopimages.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-              <folding />
-            </state>
+      <file leaf-file-name="P5130317 (3).jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130317 (3).jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quicklinks.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_data/quicklinks.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="35" />
-              <folding />
-            </state>
+      <file leaf-file-name="P5130321 (3).jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130321 (3).jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="netlify.toml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netlify.toml">
+      <file leaf-file-name="P5130323 (3).jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130323 (3).jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P6070415 (2).jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P6070415 (2).jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P6100551 (2).jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P6100551 (2).jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="platesimages.yaml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_data/platesimages.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="state.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/.netlify/state.json">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/plates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/admin/config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#457#485#0" expanded="false" />
-                <element signature="e#490#988#0" expanded="false" />
-                <element signature="e#1036#1064#0" expanded="false" />
-                <element signature="e#1069#2302#0" expanded="false" />
-                <element signature="e#2379#2812#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workshop3.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop3.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -124,7 +105,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>index.min.js</find>
       <find>.jp</find>
       <find>.jpg</find>
       <find>@tailwind base</find>
@@ -154,11 +134,13 @@
       <find>P5100217 (5).jpeg</find>
       <find>P5100223 (4).jpeg</find>
       <find>JPG</find>
+      <find>Sculptures</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>dropdown</replace>
       <replace>jpeg</replace>
+      <replace>Cups</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\user\Documents\GitHub\neat-starter\_site</dir>
@@ -172,8 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_includes/partials/footer.html" />
-        <option value="$PROJECT_DIR$/src/details/index.html" />
         <option value="$USER_HOME$/AppData/Local/Temp/Temp1_tailwind-css-dropdown-navigation-bar.zip/component.html" />
         <option value="$PROJECT_DIR$/src/static/css/tailwind.css" />
         <option value="$PROJECT_DIR$/src/_includes/partials/navbar2.html" />
@@ -198,7 +178,6 @@
         <option value="$PROJECT_DIR$/src/_data/pottery.yaml" />
         <option value="$PROJECT_DIR$/src/_includes/partials/pottery.html" />
         <option value="$PROJECT_DIR$/src/pottery/index.html" />
-        <option value="$PROJECT_DIR$/src/_data/cupsimages.yaml" />
         <option value="$PROJECT_DIR$/src/_includes/partials/plates.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/cups.html" />
         <option value="$PROJECT_DIR$/src/_includes/partials/bowls.html" />
@@ -221,8 +200,11 @@
         <option value="$PROJECT_DIR$/src/_data/galleryimages.yaml" />
         <option value="$PROJECT_DIR$/src/_data/homeimages.yaml" />
         <option value="$PROJECT_DIR$/src/_data/sculptureimages.yaml" />
-        <option value="$PROJECT_DIR$/src/_includes/partials/wshopimages.html" />
         <option value="$PROJECT_DIR$/src/_data/wshopimages.yaml" />
+        <option value="$PROJECT_DIR$/src/_includes/partials/wshopimages.html" />
+        <option value="$PROJECT_DIR$/src/_data/cupsimages.yaml" />
+        <option value="$PROJECT_DIR$/src/plates/index.html" />
+        <option value="$PROJECT_DIR$/src/_data/platesimages.yaml" />
       </list>
     </option>
   </component>
@@ -269,6 +251,18 @@
               <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="neat-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neat-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -368,28 +362,7 @@
       <workItem from="1660671885221" duration="595000" />
       <workItem from="1660723876888" duration="594000" />
       <workItem from="1662371118785" duration="2238000" />
-      <workItem from="1662458308104" duration="3725000" />
-    </task>
-    <task id="LOCAL-00030" summary="commit 9">
-      <created>1654455285269</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1654455285269</updated>
-    </task>
-    <task id="LOCAL-00031" summary="commit 10">
-      <created>1654456413244</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1654456413244</updated>
-    </task>
-    <task id="LOCAL-00032" summary="commit 11">
-      <created>1654457949691</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1654457949691</updated>
+      <workItem from="1662458308104" duration="8065000" />
     </task>
     <task id="LOCAL-00033" summary="commit 11">
       <created>1654457963811</created>
@@ -713,11 +686,32 @@
       <option name="project" value="LOCAL" />
       <updated>1659390900471</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="commit 40">
+      <created>1662471717904</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1662471717905</updated>
+    </task>
+    <task id="LOCAL-00080" summary="commit 41">
+      <created>1662473368435</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1662473368435</updated>
+    </task>
+    <task id="LOCAL-00081" summary="commit 42">
+      <created>1662546809717</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1662546809717</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="340262000" />
+    <option name="totallyTimeSpent" value="344602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1576" extended-state="6" />
@@ -800,9 +794,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit 14" />
-    <MESSAGE value="commit 15" />
-    <MESSAGE value="commit 17" />
     <MESSAGE value="commit 18" />
     <MESSAGE value="commit 19" />
     <MESSAGE value="commit 20" />
@@ -825,109 +816,92 @@
     <MESSAGE value="commit 37" />
     <MESSAGE value="commit 38" />
     <MESSAGE value="commit 39" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 39" />
+    <MESSAGE value="commit 40" />
+    <MESSAGE value="commit 41" />
+    <MESSAGE value="commit 42" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 42" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P6100551 (2).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3080110 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/12174027 (2).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3080122 (3).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/12174074 (2).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3080132 (4).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P3015482 (2).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100150 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P3015548 (3).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100155 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P3015559 (2).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100168 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P3015569 (2).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100171 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/static/img/home500X500/P3015686 (4).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100174 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/12174027 (2).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100175 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/12174074 (2).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100178 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3080093.jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100180 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3080093 (2).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100181 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3080093 - Copy.jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100186 (3).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3080095 (3).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100188 (3).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3080095 (3) - Copy.jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100192 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3015653 - Copy.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3015655 - Copy.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3015667 (2).jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3015668 (2).jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3015686.jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100194 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -938,6 +912,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100199.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100205 (4).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100208 (2).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100209 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -962,22 +951,27 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P6070415 (2).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100220 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130323 (3).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100223 (3).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130315 (3).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100224.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100245.jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100225 (2).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100227 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -992,133 +986,103 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100227 (2).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100234 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100225 (2).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100245.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100223 (3).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100247 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P3015686 (4).jpeg">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100249 (2).jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_data/galleryimages.yaml">
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100252 (2).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100267.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100268 (2).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130301 (4).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130306 (3).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130311 (3).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130314 (3).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130315 (3).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130317 (3).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130321 (3).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5130323 (3).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P6070415 (2).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P6100551 (2).jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3213">
-          <caret line="189" column="20" lean-forward="false" selection-start-line="189" selection-start-column="20" selection-end-line="189" selection-end-column="20" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_data/homeimages.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="43" column="52" lean-forward="false" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_data/sculptureimages.yaml">
+    <entry file="file://$PROJECT_DIR$/src/_data/platesimages.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/ceramic-sculpture-rebecca-simmons-001.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/workshops/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netlify.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/.netlify/state.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/admin/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#457#485#0" expanded="false" />
-            <element signature="e#490#988#0" expanded="false" />
-            <element signature="e#1036#1064#0" expanded="false" />
-            <element signature="e#1069#2302#0" expanded="false" />
-            <element signature="e#2379#2812#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_data/quicklinks.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/static/img/workshops/workshop4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_includes/partials/wshopimages.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_data/wshopimages.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding />
         </state>
       </provider>
