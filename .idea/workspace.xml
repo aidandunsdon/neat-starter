@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a601a687-9b39-49bf-9c21-c177aecd0246" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/static/img/workshops/kids-november.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/_data/wshopimages.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/_data/wshopimages.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/img/workshops/workshop3.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,14 +358,7 @@
       <workItem from="1662458308104" duration="14485000" />
       <workItem from="1662926336502" duration="6256000" />
       <workItem from="1662989007969" duration="794000" />
-      <workItem from="1663014917877" duration="400000" />
-    </task>
-    <task id="LOCAL-00043" summary="commit 15">
-      <created>1655898356549</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1655898356549</updated>
+      <workItem from="1663014917877" duration="1096000" />
     </task>
     <task id="LOCAL-00044" summary="commit 17">
       <created>1655900910840</created>
@@ -705,7 +696,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662933285036</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="commit 49">
+      <created>1663015372176</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1663015372176</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
