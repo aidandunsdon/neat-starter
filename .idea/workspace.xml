@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a601a687-9b39-49bf-9c21-c177aecd0246" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_data/wshopimages.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/_data/wshopimages.yaml" afterDir="false" />
+    <list default="true" id="a601a687-9b39-49bf-9c21-c177aecd0246" name="Default" comment="commit 50">
+      <change afterPath="$PROJECT_DIR$/src/blog/backup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/safe/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops/kids-november.jpeg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,9 +301,9 @@
       <recent name="C:\Users\user\Documents\GitHub\neat-starter\_site\static\img\home500X500" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\safe" />
       <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\static\img\workshops" />
       <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\static\img\carousel" />
-      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\safe" />
       <recent name="C:\Users\user\Documents\GitHub\neat-starter\src" />
       <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\_includes\shop" />
     </key>
@@ -358,14 +359,7 @@
       <workItem from="1662458308104" duration="14485000" />
       <workItem from="1662926336502" duration="6256000" />
       <workItem from="1662989007969" duration="794000" />
-      <workItem from="1663014917877" duration="1096000" />
-    </task>
-    <task id="LOCAL-00044" summary="commit 17">
-      <created>1655900910840</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1655900910840</updated>
+      <workItem from="1663014917877" duration="1808000" />
     </task>
     <task id="LOCAL-00045" summary="commit 18">
       <created>1655901249922</created>
@@ -703,7 +697,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663015372176</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="commit 49">
+      <created>1663017913856</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1663017913856</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -771,7 +772,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit 25" />
     <MESSAGE value="commit 26" />
     <MESSAGE value="commit 27" />
     <MESSAGE value="commit 28" />
@@ -796,7 +796,8 @@
     <MESSAGE value="commit 47" />
     <MESSAGE value="commit 48" />
     <MESSAGE value="commit 49" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 49" />
+    <MESSAGE value="commit 50" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 50" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100209 (2).jpeg">
