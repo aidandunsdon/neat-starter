@@ -1,13 +1,25 @@
 images:
   - image: /static/img/workshops/workshop1.jpg
     desc: Sculptures - Atavist Collection
-    url: "https://form.jotform.com/222127545869060/"
+    url: "https://rebsimmons.com/workshops"
   - image: /static/img/workshops/workshop2.jpg
     desc: Sculptures - Atavist Collection
-    url: "https://form.jotform.com/222137194612350/"
+    url: "https://rebsimmons.com/workshops"
   - image: /static/img/workshops/workshop4.jpg
     desc: Sculptures - Atavist Collection
-    url: "https://form.jotform.com/222143596921356"
+    url: "https://rebsimmons.com/workshops"
   - image: /static/img/workshops/mums flier.jpg
     desc: Sculptures - Atavist Collection
-    url: "https://form.jotform.com/222982493651363"
+    url: "https://rebsimmons.com/workshops"
+  - image: /static/img/workshops/Jan kids 7-12.jpg
+    desc: Sculptures - Atavist Collection
+    url: "https://form.jotform.com/223276497609367"
+  - image: /static/img/workshops/Feb Adults 26th Feb.jpg
+    desc: Sculptures - Atavist Collection
+    url: "https://form.jotform.com/223276116556356"
+  - image: src/static/img/workshops/Feb Adults weekly.jpg
+    desc: Sculptures - Atavist Collection
+    url: "https://form.jotform.com/223276114624350"
+  - image: /static/img/workshops/mexican tree.jpg
+    desc: Sculptures - Atavist Collection
+    url: "https://form.jotform.com/223276493713359
