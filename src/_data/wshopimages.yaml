@@ -1,16 +1,4 @@
 images:
-  - image: /static/img/workshops/workshop1.jpg
-    desc: Sculptures - Atavist Collection
-    url: "https://rebsimmons.com/workshops"
-  - image: /static/img/workshops/workshop2.jpg
-    desc: Sculptures - Atavist Collection
-    url: "https://rebsimmons.com/workshops"
-  - image: /static/img/workshops/workshop4.jpg
-    desc: Sculptures - Atavist Collection
-    url: "https://rebsimmons.com/workshops"
-  - image: /static/img/workshops/mums flier.jpg
-    desc: Sculptures - Atavist Collection
-    url: "https://rebsimmons.com/workshops"
   - image: /static/img/workshops/Jan kids 7-12.jpg
     desc: Sculptures - Atavist Collection
     url: "https://form.jotform.com/223276497609367"
