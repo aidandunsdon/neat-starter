@@ -17,9 +17,9 @@ images:
   - image: /static/img/workshops/Feb Adults 26th Feb.jpg
     desc: Sculptures - Atavist Collection
     url: "https://form.jotform.com/223276116556356"
-  - image: src/static/img/workshops/Feb Adults weekly.jpg
+  - image: /static/img/workshops/Feb Adults weekly.jpg
     desc: Sculptures - Atavist Collection
     url: "https://form.jotform.com/223276114624350"
   - image: /static/img/workshops/mexican tree.jpg
     desc: Sculptures - Atavist Collection
-    url: "https://form.jotform.com/223276493713359
+    url: "https://form.jotform.com/223276493713359"
