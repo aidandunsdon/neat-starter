@@ -83,6 +83,10 @@ images:
     desc:  Kingdom
   - image: /static/img/home500X500/P5130306 (3).jpeg
     desc:  Kingdom
+  - image: /static/img/home500X500/Rebecca_Simmons_Dec22_12320.jpg
+    desc:   Cups
+  - image: /static/img/home500X500/Rebecca_Simmons_Dec22_12327.jpg
+    desc:   Cups
   - image: /static/img/home500X500/P3015667 (2).jpeg
     desc:   Cups
   - image: /static/img/home500X500/P3015668 (2).jpeg
@@ -125,6 +129,8 @@ images:
     desc:   Cups
   - image: /static/img/home500X500/P5100249 (2).jpeg
     desc:   Cups
+  - image: /static/img/home500X500/Rebecca_Simmons_Dec22_12341.jpeg
+    desc:  Bowls
   - image: /static/img/home500X500/P3015653 - Copy.jpeg
     desc:  Bowls
   - image: /static/img/home500X500/P3015655 - Copy.jpeg
@@ -138,7 +144,9 @@ images:
   - image: /static/img/home500X500/P3080096 (3).jpeg
     desc:  Bowls
   - image: /static/img/home500X500/P3080100 (3) - Copy.jpeg
-    desc:  Bowls    
+    desc:  Bowls
+  - image: /static/img/home500X500/Rebecca_Simmons_Dec22_12350.jpg
+    desc:  Plates
   - image: /static/img/home500X500/P5130311 (3).jpeg
     desc:  Plates
   - image: /static/img/home500X500/P5130314 (3).jpeg
