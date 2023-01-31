@@ -1,12 +1,12 @@
 
-    <div class="container mx-auto flex justify-center border-gray-400 pt-24 ">
+    <div class="container mx-auto flex justify-center border-gray-400 pt-6 lg:pt-24 lg:w-1/2 ">
         {% if homeimages.images %}
-        <div class="flex flex-row flex-wrap lg:w-1/2">
+        <div class="flex flex-row flex-wrap ">
         {% for item in homeimages.images  %}
             <a href="{{item.path}}" class="w-1/2 relative">
-                <img class="hover:grow hover:shadow-lg w-11/12 pb-6" src="{{item.image}}">
-                <div class="absolute top-3 left-0 right-28 pl-2 bg-white opacity-60 hover:shadow-lg">
-                    <h3 class="text-xl text-gray-700 font-bold">{{item.desc}}</h3>
+                <img class="hover:grow hover:shadow-lg bg-gray-300 w-11/12 mb-6" src="{{item.image}}">
+                <div class="absolute top-3 left-0 right-90 pl-2 bg-white opacity-50 hover:shadow-lg">
+                    <h3 class="text-xl text-gray-700 font-bold pr-1">{{item.desc}}</h3>
                 </div>
             </a>
         {% endfor %}

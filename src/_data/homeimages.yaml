@@ -1,17 +1,17 @@
 images:
-  - image: /static/img/home500X500/P3015686 (4).jpeg
+  - image: /static/img/home500X500/Rebecca_Simmons_Dec22_12315.jpeg
     desc: Sculptures
     price: £Sold Out
     path: /sculptures
-  - image: /static/img/home500X500/P5100198 (3).jpeg
+  - image: /static/img/home500X500/Rebecca_Simmons_Dec22_12327.jpeg
     desc: Cups
     price: £Sold Out
     path: /cups
-  - image: /static/img/home500X500/P5130323 (3).jpeg
+  - image: /static/img/home500X500/Rebecca_Simmons_Dec22_12350.jpeg
     desc: Plates
     price: £Sold Out
     path: /plates
-  - image: /static/img/home500X500/P3080096 (3).jpeg
+  - image: /static/img/home500X500/Rebecca_Simmons_Dec22_12341.jpeg
     desc: Bowls
     price: £Sold Out
     path: /bowls
