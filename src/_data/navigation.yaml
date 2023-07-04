@@ -29,6 +29,11 @@ items:
   - text: Workshops
     url: /workshops
     subitems:
+      - Courses
+      - Gallery
+    subitemurls:
+      - /workshops
+      - /workshopsgallery
   - text: About
     url: /about
     subitems:
