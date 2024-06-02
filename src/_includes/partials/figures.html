@@ -1,0 +1,21 @@
+<div class="grid gap-4 px-6">
+    <!--Gallery 1-->
+    <!--Responsive grid-->
+    <div class="mx-auto">
+        <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-2">
+            {% if figuresimages.images %}
+            {% for item in figuresimages.images  %}
+            <div>
+                <img class="h-auto max-w-full border-1 border-gray" src="{{item.image}}" />
+                <div class="pt-3 flex items-center justify-between">
+                    <!-- <p class="">{{item.desc}}</p>  -->
+                </div>
+            </div>
+            {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,24 @@
+
+
+        <div class="grid gap-4">
+            <!--Gallery 1-->
+            <!--Responsive grid-->
+            <div class="mx-auto px-2 my-1">
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
+                    {% if workshops2images.images %}
+                    {% for item in workshops2images.images  %}
+                    <div>
+                        <img class="h-auto max-w-full rounded-lg" src="{{item.image}}" />
+                        <div class="pt-3 flex items-center justify-between">
+                            <!-- <p class="">{{item.desc}}</p>  -->
+                        </div>
+                    </div>
+                    {% endfor %}
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+
+
+
+

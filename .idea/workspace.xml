@@ -1,10 +1,441 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a601a687-9b39-49bf-9c21-c177aecd0246" name="Default" comment="commit 50">
+    <list default="true" id="a601a687-9b39-49bf-9c21-c177aecd0246" name="Default" comment="08/01/2024 02">
+      <change afterPath="$PROJECT_DIR$/plugins/animationDelay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/buttonPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/openVariant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/outlineSolid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/tableCaption.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_data/changelingpaintings.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_data/changelingsimages.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_data/figuresimages.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_data/lostutopiaimages.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_data/nostalgichysteriaimages.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_data/unseenformsimages.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_data/vesselsimages.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_data/workshops2images.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_includes/partials/changelingpaintings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_includes/partials/changelings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_includes/partials/figures.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_includes/partials/lostutopia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_includes/partials/masonry.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_includes/partials/masonry2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_includes/partials/nostalgichysteria.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_includes/partials/unseenforms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_includes/partials/vessels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_includes/partials/workshops2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/blog/backup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/changelingpaintings/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/changelings/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/figures/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lostutopia/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nostalgichysteria/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/safe/RS240124_FC_0004.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/safe/navbar.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/safe/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/img/workshops/kids-november.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0009.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0010.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0018jpg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0023.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelingpaintings/RS240124_FC_0026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0055-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0079.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0087.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0197.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0211.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0245.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0253.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0257.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0268.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0277.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0287.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0288.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_0299.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_FC_0001-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_FC_0002.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_FC_0003-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_FC_0003.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_FC_0004-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_FC_0004.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_FC_0005.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_FC_0015.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/RS240124_home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/Untitled_Panorama.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/RS240124_FC_0029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/drawings/list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/changelings/list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/figures/RS241223_0271.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/figures/RS241223_0275.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/figures/RS241223_0279.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/figures/RS241223_0283.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/figures/RS241223_0292.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/figures/RS241223_0294.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/figures/RS241223_0297.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/homepage/RS240124_0055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/homepage/RS240124_0114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/homepage/RS240124_0299.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/homepage/RS240124_home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/RS300124_35mm_0032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/lostutopia/list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/RS300124_35mm_0032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/nostalgichysteria/list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/unseenforms/RS080223_0233.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/unseenforms/RS080223_0236.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/unseenforms/RS080223_0241.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/unseenforms/RS080223_0245.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/unseenforms/RS080223_0251.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/unseenforms/RS080223_0256.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/unseenforms/RS080223_0263.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/unseenforms/RS080223_0266.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/unseenforms/list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/vessels/RS240124_0136.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/vessels/RS240124_0147.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/vessels/RS240124_0157.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/vessels/RS240124_0161.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1529.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1916.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1919.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1923.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1925.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1926.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1928.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1955.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1959.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1960.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1962.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1969.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1972.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1973.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_1976.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_2165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_2167.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_4877.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_4879.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/img/workshops2/IMG_4880.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unseenforms/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vessels/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workshops2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_data/homeimages.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/_data/homeimages.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/partials/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/partials/content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/partials/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/homeimages.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/partials/homeimages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/logobar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/partials/logobar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/partials/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/partials/shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/workshopsgallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/partials/workshopsgallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_includes/partials/wshopimages.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/_includes/partials/wshopimages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/carousel/P3015480a-2048X768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/carousel/P3015480b-2048X768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/carousel/P3015480c-2048X768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/carousel/P3015480d-2048X768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/carousel/P3015480e-2048X768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/carousel/P3080134 .jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/carousel/Rebecca_Simmons_Dec22_12293_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/carousel/Rebecca_Simmons_Dec22_12295.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/carousel/Rebecca_Simmons_Dec22_12295_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/carousel/Rebecca_Simmons_Dec22_12296_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/ceramic-sculpture-rebecca-simmons-001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/ceramic-sculpture-rebecca-simmons-1-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/ceramic-sculpture-rebecca-simmons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P3015686.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P3080095.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P3080096.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P3080100.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P3080110.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P3080122.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P3080132.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100150.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100154.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100155.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100156.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100158.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100161.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100166.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100168.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100171.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100174.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100175.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100178.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100180.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100181.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100183.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100186.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100188.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100192.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100194.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100196.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100198.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100199.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100205.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100207.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100209.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100211.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100212.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100213.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100217.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100220.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100223.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100224.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100225.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100227.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100228.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100231.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100234.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100238.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100245.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100247.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100249.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100252.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100256.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100257.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100265.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100266.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100267.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100268.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/P5100269.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/rebecca 1 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/rebecca 15.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/rebecca 16.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/rebecca 17j.pg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/rebecca 18.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/rebecca 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/rebecca 23jpg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/rebecca 4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/rebecca 5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/rebecca 6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/rebecca 7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home400X400/rebecca 8jpg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/12174027 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/12174074 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015482 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015548 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015555 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015559 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015569 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015570.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015578.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015586.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015588 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015653 - Copy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015655 - Copy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015667 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015668 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015686 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015686 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015686 (4).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3015686.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080093 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080093 - Copy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080093.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080095 (3) - Copy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080095 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080096 (2) - Copy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080096 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080096 (3) - Copy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080096 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080100 (2) - Copy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080100 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080100 (3) - Copy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080100 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080100.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080108 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080108.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080109.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080110 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080122 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P3080132 (4).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100150 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100155 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100168 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100171 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100174 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100175 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100178 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100180 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100181 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100183 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100186 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100188 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100192 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100194 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100198 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100199.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100205 (4).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100208 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100209 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100212 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100212 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100213 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100217 (4).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100220 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100223 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100224.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100225 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100227 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100227 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100231 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100234 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100245.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100247 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100249 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100252 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100267.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5100268 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5130301 (4).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5130306 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5130311 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5130314 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5130315 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5130317 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5130321 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P5130323 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P6070415 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/P6100551 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12293.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12295.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12296.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12297.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12298.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12301.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12302.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12303.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12305.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12306.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12307.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12308.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12309.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12313.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12314.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12315.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12315.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12320.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12327.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12327.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12335.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12341.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12341.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12344.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12350.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/home500X500/Rebecca_Simmons_Dec22_12350.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/photo-1449247709967-d4461a6a6103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/photo-1467949576168-6ce8e2df4e13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/photo-1508423134147-addf71308178.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/photo-1544787219-7f47ccb76574.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/photo-1550837368-6594235de85c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/photo-1551431009-a802eeec77b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/photo-1555982105-d25af4182e4e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/photo-carousel-001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/photo-carousel-002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/img/photo-carousel-003.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,33 +718,40 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/GitHub/neat-starter/src/static/img/carousel&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/GitHub/neat-starter/src/static/img/changelings&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\static\img\carousel" />
+      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\static\img\changelings" />
+      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\static\img\changelingpaintings" />
       <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\_includes\partials" />
-      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src" />
-      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\static\img\home500X500" />
-      <recent name="C:\Users\user\Documents\GitHub\neat-starter\_site\static\img\home500X500" />
+      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\changelingpaintings" />
+      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\static\img\nostalgichysteria" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\static\img\changelings" />
       <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\safe" />
+      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\static\img" />
+      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\static\img\figures" />
       <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\static\img\workshops" />
-      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\static\img\carousel" />
-      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src" />
-      <recent name="C:\Users\user\Documents\GitHub\neat-starter\src\_includes\shop" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.masonry.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/neat-starter/src/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="masonry.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/neat-starter/src/_includes/partials/masonry.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.masonry.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -359,238 +797,45 @@
       <workItem from="1662458308104" duration="14485000" />
       <workItem from="1662926336502" duration="6256000" />
       <workItem from="1662989007969" duration="794000" />
-      <workItem from="1663014917877" duration="1808000" />
-    </task>
-    <task id="LOCAL-00045" summary="commit 18">
-      <created>1655901249922</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1655901249922</updated>
-    </task>
-    <task id="LOCAL-00046" summary="commit 19">
-      <created>1655901571134</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1655901571134</updated>
-    </task>
-    <task id="LOCAL-00047" summary="commit 19">
-      <created>1655901673577</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1655901673577</updated>
-    </task>
-    <task id="LOCAL-00048" summary="commit 19">
-      <created>1655901786063</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1655901786063</updated>
-    </task>
-    <task id="LOCAL-00049" summary="commit 20">
-      <created>1655902471302</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1655902471302</updated>
-    </task>
-    <task id="LOCAL-00050" summary="commit 21">
-      <created>1655903469369</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1655903469370</updated>
-    </task>
-    <task id="LOCAL-00051" summary="commit 22">
-      <created>1655910375347</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1655910375347</updated>
-    </task>
-    <task id="LOCAL-00052" summary="commit 22">
-      <created>1655921745607</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1655921745607</updated>
-    </task>
-    <task id="LOCAL-00053" summary="commit 23">
-      <created>1655923331504</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1655923331504</updated>
-    </task>
-    <task id="LOCAL-00054" summary="commit 24">
-      <created>1655923793486</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1655923793486</updated>
-    </task>
-    <task id="LOCAL-00055" summary="commit 23">
-      <created>1655924967511</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1655924967511</updated>
-    </task>
-    <task id="LOCAL-00056" summary="commit 23">
-      <created>1655925001517</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1655925001517</updated>
-    </task>
-    <task id="LOCAL-00057" summary="commit 24">
-      <created>1655926998928</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1655926998928</updated>
-    </task>
-    <task id="LOCAL-00058" summary="commit 24">
-      <created>1655927517638</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1655927517638</updated>
-    </task>
-    <task id="LOCAL-00059" summary="commit 25">
-      <created>1655929031154</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1655929031155</updated>
-    </task>
-    <task id="LOCAL-00060" summary="commit 27">
-      <created>1655929340830</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1655929340830</updated>
-    </task>
-    <task id="LOCAL-00061" summary="commit 26">
-      <created>1655994078669</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1655994078669</updated>
-    </task>
-    <task id="LOCAL-00062" summary="commit 26">
-      <created>1656001216500</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1656001216500</updated>
-    </task>
-    <task id="LOCAL-00063" summary="commit 27">
-      <created>1659125276582</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1659125276582</updated>
-    </task>
-    <task id="LOCAL-00064" summary="commit 28">
-      <created>1659127368815</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1659127368815</updated>
-    </task>
-    <task id="LOCAL-00065" summary="commit 29">
-      <created>1659130225911</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1659130225911</updated>
-    </task>
-    <task id="LOCAL-00066" summary="commit 30">
-      <created>1659345125022</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1659345125023</updated>
-    </task>
-    <task id="LOCAL-00067" summary="commit 31">
-      <created>1659355767692</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1659355767692</updated>
-    </task>
-    <task id="LOCAL-00068" summary="commit 32">
-      <created>1659357546712</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1659357546712</updated>
-    </task>
-    <task id="LOCAL-00069" summary="commit 33">
-      <created>1659358268464</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1659358268464</updated>
-    </task>
-    <task id="LOCAL-00070" summary="commit 34">
-      <created>1659358957654</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1659358957654</updated>
-    </task>
-    <task id="LOCAL-00071" summary="commit 35">
-      <created>1659360576107</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1659360576107</updated>
-    </task>
-    <task id="LOCAL-00072" summary="commit 36">
-      <created>1659361266611</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1659361266611</updated>
-    </task>
-    <task id="LOCAL-00073" summary="commit 37">
-      <created>1659382296038</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1659382296040</updated>
-    </task>
-    <task id="LOCAL-00074" summary="commit 37">
-      <created>1659382306750</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1659382306750</updated>
-    </task>
-    <task id="LOCAL-00075" summary="commit 38">
-      <created>1659382687655</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1659382687655</updated>
-    </task>
-    <task id="LOCAL-00076" summary="commit 38">
-      <created>1659382890679</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1659382890679</updated>
-    </task>
-    <task id="LOCAL-00077" summary="commit 38">
-      <created>1659382900086</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1659382900086</updated>
+      <workItem from="1663014917877" duration="3462000" />
+      <workItem from="1664786029401" duration="5031000" />
+      <workItem from="1666773668198" duration="4777000" />
+      <workItem from="1669325139958" duration="3780000" />
+      <workItem from="1670335932658" duration="638000" />
+      <workItem from="1672163402071" duration="1753000" />
+      <workItem from="1674647414746" duration="89552000" />
+      <workItem from="1675160961350" duration="6618000" />
+      <workItem from="1675246479721" duration="4755000" />
+      <workItem from="1675438605674" duration="12000" />
+      <workItem from="1675772901016" duration="37000" />
+      <workItem from="1675889478818" duration="1845000" />
+      <workItem from="1679943270539" duration="1574000" />
+      <workItem from="1688502765223" duration="9233000" />
+      <workItem from="1689383962204" duration="2000" />
+      <workItem from="1689698032069" duration="1193000" />
+      <workItem from="1689935950069" duration="596000" />
+      <workItem from="1691411330113" duration="800000" />
+      <workItem from="1691841399641" duration="1247000" />
+      <workItem from="1692719564091" duration="770000" />
+      <workItem from="1692954757470" duration="1205000" />
+      <workItem from="1698178404397" duration="1916000" />
+      <workItem from="1698322046426" duration="655000" />
+      <workItem from="1698670257862" duration="716000" />
+      <workItem from="1704714400135" duration="3767000" />
+      <workItem from="1705595631281" duration="594000" />
+      <workItem from="1706023255632" duration="705000" />
+      <workItem from="1706027960539" duration="2143000" />
+      <workItem from="1706542766789" duration="1027000" />
+      <workItem from="1707736191029" duration="1249000" />
+      <workItem from="1709052151881" duration="1340000" />
+      <workItem from="1709118155510" duration="34000" />
+      <workItem from="1711016585001" duration="2267000" />
+      <workItem from="1711535830453" duration="63685000" />
+      <workItem from="1712742905988" duration="17655000" />
+      <workItem from="1712915505917" duration="1798000" />
+      <workItem from="1713430492874" duration="638000" />
+      <workItem from="1713518619818" duration="5000" />
+      <workItem from="1717349985382" duration="1374000" />
     </task>
     <task id="LOCAL-00078" summary="commit 39">
       <created>1659390900471</created>
@@ -704,7 +949,238 @@
       <option name="project" value="LOCAL" />
       <updated>1663017913856</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="commit 50">
+      <created>1663018772807</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1663018772807</updated>
+    </task>
+    <task id="LOCAL-00095" summary="commit 51">
+      <created>1664786845853</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1664786845853</updated>
+    </task>
+    <task id="LOCAL-00096" summary="commit 52">
+      <created>1664815122027</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1664815122027</updated>
+    </task>
+    <task id="LOCAL-00097" summary="commit 52">
+      <created>1666777150674</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1666777150675</updated>
+    </task>
+    <task id="LOCAL-00098" summary="commit 53">
+      <created>1666784640629</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1666784640629</updated>
+    </task>
+    <task id="LOCAL-00099" summary="commit 53">
+      <created>1669327986800</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1669327986801</updated>
+    </task>
+    <task id="LOCAL-00100" summary="commit 52">
+      <created>1669329290311</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1669329290311</updated>
+    </task>
+    <task id="LOCAL-00101" summary="commit 53">
+      <created>1669330112420</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1669330112420</updated>
+    </task>
+    <task id="LOCAL-00102" summary="commit 53">
+      <created>1672166185932</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1672166185932</updated>
+    </task>
+    <task id="LOCAL-00103" summary="commit 53">
+      <created>1674648602728</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1674648602729</updated>
+    </task>
+    <task id="LOCAL-00104" summary="commit 53">
+      <created>1674748697503</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1674748697503</updated>
+    </task>
+    <task id="LOCAL-00105" summary="commit 54">
+      <created>1674749106123</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1674749106123</updated>
+    </task>
+    <task id="LOCAL-00106" summary="27/01/2023 01">
+      <created>1674835522947</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1674835522947</updated>
+    </task>
+    <task id="LOCAL-00107" summary="27/01/2023 02">
+      <created>1674845298570</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1674845298570</updated>
+    </task>
+    <task id="LOCAL-00108" summary="31/01/2023 01">
+      <created>1675164625675</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1675164625676</updated>
+    </task>
+    <task id="LOCAL-00109" summary="27/01/2023 02">
+      <created>1675165388648</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1675165388648</updated>
+    </task>
+    <task id="LOCAL-00110" summary="31/01/2023 03">
+      <created>1675166672875</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1675166672875</updated>
+    </task>
+    <task id="LOCAL-00111" summary="31/01/2023 04">
+      <created>1675196125043</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1675196125043</updated>
+    </task>
+    <task id="LOCAL-00112" summary="01/02/2023 01">
+      <created>1675252357857</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1675252357857</updated>
+    </task>
+    <task id="LOCAL-00113" summary="27/01/2023 01">
+      <created>1679987166563</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1679987166564</updated>
+    </task>
+    <task id="LOCAL-00114" summary="28/03/2023 02">
+      <created>1679987806320</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1679987806320</updated>
+    </task>
+    <task id="LOCAL-00115" summary="04/07/2023 01">
+      <created>1688503865915</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1688503865916</updated>
+    </task>
+    <task id="LOCAL-00116" summary="27/01/2023 02">
+      <created>1688505480231</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1688505480231</updated>
+    </task>
+    <task id="LOCAL-00117" summary="27/01/2023 03">
+      <created>1688506353114</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1688506353115</updated>
+    </task>
+    <task id="LOCAL-00118" summary="27/01/2023 04">
+      <created>1688512750151</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1688512750151</updated>
+    </task>
+    <task id="LOCAL-00119" summary="12/08/2023 01">
+      <created>1691842339006</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1691842339007</updated>
+    </task>
+    <task id="LOCAL-00120" summary="24/10/2023 01">
+      <created>1698182215292</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1698182215292</updated>
+    </task>
+    <task id="LOCAL-00121" summary="27/01/2023 02">
+      <created>1698182501360</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1698182501360</updated>
+    </task>
+    <task id="LOCAL-00122" summary="27/01/2023 01">
+      <created>1704715235255</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1704715235255</updated>
+    </task>
+    <task id="LOCAL-00123" summary="08/01/2024 02">
+      <created>1704715811343</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1704715811343</updated>
+    </task>
+    <task id="LOCAL-00124" summary="12/02/2024">
+      <created>1707736849990</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1707736849992</updated>
+    </task>
+    <task id="LOCAL-00125" summary="23/03/2024 01">
+      <created>1711018188482</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1711018188483</updated>
+    </task>
+    <task id="LOCAL-00126" summary="21/03/2024 02">
+      <created>1711018798014</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1711018798014</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -772,32 +1248,43 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit 26" />
-    <MESSAGE value="commit 27" />
-    <MESSAGE value="commit 28" />
-    <MESSAGE value="commit 29" />
-    <MESSAGE value="commit 30" />
-    <MESSAGE value="commit 31" />
-    <MESSAGE value="commit 32" />
-    <MESSAGE value="commit 33" />
-    <MESSAGE value="commit 34" />
-    <MESSAGE value="commit 35" />
-    <MESSAGE value="commit 36" />
-    <MESSAGE value="commit 37" />
-    <MESSAGE value="commit 38" />
-    <MESSAGE value="commit 39" />
-    <MESSAGE value="commit 40" />
-    <MESSAGE value="commit 41" />
-    <MESSAGE value="commit 42" />
-    <MESSAGE value="commit 43" />
-    <MESSAGE value="commit 44" />
-    <MESSAGE value="commit 45" />
     <MESSAGE value="commit 46" />
     <MESSAGE value="commit 47" />
     <MESSAGE value="commit 48" />
     <MESSAGE value="commit 49" />
     <MESSAGE value="commit 50" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 50" />
+    <MESSAGE value="commit 51" />
+    <MESSAGE value="commit 52" />
+    <MESSAGE value="commit 53" />
+    <MESSAGE value="commit 54" />
+    <MESSAGE value="31/01/2023 01" />
+    <MESSAGE value="31/01/2023 03" />
+    <MESSAGE value="31/01/2023 04" />
+    <MESSAGE value="01/02/2023 01" />
+    <MESSAGE value="28/03/2023 02" />
+    <MESSAGE value="04/07/2023 01" />
+    <MESSAGE value="27/01/2023 03" />
+    <MESSAGE value="27/01/2023 04" />
+    <MESSAGE value="12/08/2023 01" />
+    <MESSAGE value="24/10/2023 01" />
+    <MESSAGE value="27/01/2023 02" />
+    <MESSAGE value="27/01/2023 01" />
+    <MESSAGE value="12/02/2024" />
+    <MESSAGE value="23/03/2024 01" />
+    <MESSAGE value="21/03/2024 02" />
+    <MESSAGE value="08/01/2024 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="08/01/2024 02" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/test1/index.html</url>
+          <line>96</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/static/img/home500X500/P5100209 (2).jpeg">

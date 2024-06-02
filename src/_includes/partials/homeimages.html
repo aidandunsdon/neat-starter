@@ -1,17 +1,15 @@
 
-    <div class="container mx-auto flex justify-center border-gray-400 pt-6 lg:pt-24 lg:w-1/2 ">
-        {% if homeimages.images %}
-        <div class="flex flex-row flex-wrap ">
-        {% for item in homeimages.images  %}
-            <a href="{{item.path}}" class="w-1/2 relative">
-                <img class="hover:grow hover:shadow-lg bg-gray-300 w-11/12 mb-6" src="{{item.image}}">
-                <div class="absolute top-3 left-0 right-90 pl-2 bg-white opacity-50 hover:shadow-lg">
-                    <h3 class="text-xl text-gray-700 font-bold pr-1">{{item.desc}}</h3>
-                </div>
-            </a>
-        {% endfor %}
+<div class="grid gap-4 px-6">
+        <!--Gallery 1-->
+        <!--Responsive grid-->
+        <div class="mx-autopx-">
+            <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-2">
+                {% if homeimages.images %}
+                {% for item in homeimages.images  %}
+                <div class="flex justify-center text-6xl border-1 border-gray ">
+                    <img class="w-full rounded-sm" src="{{item.image}}" /></div>
+                {% endfor %}
+                {% endif %}
+            </div>
         </div>
-        {% endif %}
-
-    </div>
-
+</div>
