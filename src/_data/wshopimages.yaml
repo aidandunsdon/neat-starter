@@ -1,17 +1,8 @@
 images:
-  - image: /static/img/workshops/course2.png
-    desc:  ADULTS POTTERY COURSE -- Autumnal Coil pots COURSE - Dates  Nov 8th 15th 22 ,29,  Dec 6 ,13th 2024
-    url: "https://form.jotform.com/240072809219354"
-  - image: /static/img/workshops/course3.png
-    desc: ADULTS POTTERY COURSE --  Working with Cobalt - Dates Jan 10 17 24 31   Feb 7 14 2025
-    url: "https://form.jotform.com/240072530214340"
-  - image: /static/img/workshops/course4.png
-    desc:  ADULTS POTTERY COURSE -- Figurines - Dates Feb 28th, March 7th ,14, 21, 28  , April 4th 2025
-    url: "https://form.jotform.com/240072716161347"
   - image: /static/img/workshops/course5.png
-    desc:  ADULTS POTTERY COURSE -- Lions, cats, and creatures  - Dates  May 2, 9, 16, 23 2025
+    desc:  ADULTS POTTERY COURSE -- Self Guided  - 6th June, 13th June, 20th June, 27th Jun 2025
     url: "https://form.jotform.com/223276114624350"
   - image: /static/img/workshops/kids2.jpg
-    desc: Kids Pottery  2nd May, 9th May, 16th May, 24th May 2025
+    desc: Kids Pottery  6th June, 13th June, 20th June, 27th Jun 2025
     url: "https://form.jotform.com/232966971404363"
 
