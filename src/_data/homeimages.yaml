@@ -1,15 +1,23 @@
-images:
-  - image: /static/img/homepage/RS240124_0055.jpg
-    desc: Sculptures
-    price: £Sold Out
-    path: /sculptures
-  - image: /static/img/homepage/RS240124_0114.jpg
-    desc: Cups
-    price: £Sold Out
-    path: /cups
-  - image: /static/img/homepage/RS240124_0299.jpg
-    desc: Plates
-    price: £Sold Out
-    path: /plates
-
-
+mages:
+  - image: /static/img/changelings/RS240124_0055.jpg
+    desc: Velvet Nap
+  - image: /static/img/changelings/RS240124_home.jpg
+    desc: Rock of Blue Veined Stone
+  - image: /static/img/changelings/RS240124_0079.jpg
+    desc: Full of Airs and Graces, Pulling Wry Faces
+  - image: /static/img/changelings/RS240124_0087.jpg
+    desc: Cooing All Together
+  - image: /static/img/changelings/RS240124_0114.jpg
+    desc: Dainty Mouths
+  - image: /static/img/changelings/Untitled_Panorama.jpg
+    desc: Finger Tips
+  - image: /static/img/changelings/RS240124_0197.jpg
+    desc: Pluck Them and Suck Them
+  - image: /static/img/unseenforms/RS080223_0233.jpg
+    desc: Pluck Them and Suck Them
+  - image: /static/img/unseenforms/RS080223_0245.jpg
+    desc: Pluck Them and Suck Them
+  - image: /static/img/unseenforms/RS080223_0266.jpg
+    desc: Pluck Them and Suck Them
+  - image: /static/img/unseenforms/RS080223_0256.jpg
+    desc: Pluck Them and Suck Them
